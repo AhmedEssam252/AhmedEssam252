@@ -64,11 +64,11 @@
 
 ###
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;>
-<img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ6cDNtNjJ4aGY2cnUyY3V0eWxmdWp4dG9qOHpvdGViY2V1YTQ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDQj6tO9V3Fas7fkkP/giphy.gif" style="background:rgba(0,0,0,0)" width="25%" alt="Gogolitus giphyupload pixelart retro car GIF">
+<img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ6cDNtNjJ4aGY2cnUyY3V0eWxmdWp4dG9qOHpvdGViY2V1YTQ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDQj6tO9V3Fas7fkkP/giphy.gif" style="background:rgba(0,0,0,0)" width="200" alt="Gogolitus giphyupload pixelart retro car GIF">
 
-<img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpkN2kxZW85bzJ1YXdqM3lwdjNiczBnMjg5OXltajhraDF1MzJ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KCSCZJ2HH0TX3Zsidl/giphy.gif" style="background:rgba(0,0,0,0)" width="50%"  alt="Teenage Mutant Ninja Turtles Game GIF by Xbox">
+<img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpkN2kxZW85bzJ1YXdqM3lwdjNiczBnMjg5OXltajhraDF1MzJ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KCSCZJ2HH0TX3Zsidl/giphy.gif" style="background:rgba(0,0,0,0)" width="200"  alt="Teenage Mutant Ninja Turtles Game GIF by Xbox">
 
-<img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdnZWNnamhyeGQ0dmI3ZzVzcXZtOWFyZzRpY3d4dHR0bGdpbXRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif" style="background:rgba(0,0,0,0)" width="25%" alt="Text gif. A coffee cup with a smiling face made out of pixels steams. Flashing text reads, “Insert coffee to continue.”">
+<img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdnZWNnamhyeGQ0dmI3ZzVzcXZtOWFyZzRpY3d4dHR0bGdpbXRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif" style="background:rgba(0,0,0,0)" width="200" alt="Text gif. A coffee cup with a smiling face made out of pixels steams. Flashing text reads, “Insert coffee to continue.”">
 </div>
 
 ###
