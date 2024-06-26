@@ -25,5 +25,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-essam-07333a202) 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AhmedEssam252&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AhmedEssam252&limit=5&theme=dark&combine_all_yearly_contributions=true)
