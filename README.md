@@ -3,13 +3,8 @@
 
 # 📊 GitHub Stats:
 
-<div style="display:flex">
-![](https://github-readme-stats.vercel.app/api?username=AhmedEssam252&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedEssam252&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedEssam252&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEssam252&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-
 
 ###
 <div align="center" style="display:flex;justify-content: space-around;flex-wrap:wrap;">
