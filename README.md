@@ -65,8 +65,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AhmedEssam252/AhmedEssam252/output/snake.svg" alt="Snake animation" />
+<iframe src="https://giphy.com/embed/qDQj6tO9V3Fas7fkkP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/road-outrun-gogolitus-qDQj6tO9V3Fas7fkkP">via GIPHY</a></p>
 
 ###
