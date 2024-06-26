@@ -2,13 +2,13 @@
 <h3 align="center">A passionate full-stack web developer from Egypt</h3>
 <h3 align="center">find ways to use open-source projects in non profit organizations</h3>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedEssam252&theme=tokyonight&hide_border=false)
+
+
 <div  align="center">
   <img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdnZWNnamhyeGQ0dmI3ZzVzcXZtOWFyZzRpY3d4dHR0bGdpbXRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif" style="background:rgba(0,0,0,0)" width="25%" height="200" alt="Text gif. A coffee cup with a smiling face made out of pixels steams. Flashing text reads, “Insert coffee to continue.”">
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedEssam252&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEssam252&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 <div align="center" style="display:flex;justify-content: space-around;flex-wrap:wrap;">
