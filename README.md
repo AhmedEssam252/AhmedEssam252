@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Essam</h1>
 <h3 align="center">A passionate full-stack web developer from Egypt</h3>
+<h3 align="center">find ways to use open-source projects in non profit organizations</h3>
 
 <div  align="center">
   <img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdnZWNnamhyeGQ0dmI3ZzVzcXZtOWFyZzRpY3d4dHR0bGdpbXRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif" style="background:rgba(0,0,0,0)" width="25%" height="200" alt="Text gif. A coffee cup with a smiling face made out of pixels steams. Flashing text reads, “Insert coffee to continue.”">
@@ -17,10 +18,6 @@
 </div>
 
 
-###
-
-# 💫 About Me:
-How can use open-source projects in non profit organizations
 ###
 
 # 💻 Tech Stack:
