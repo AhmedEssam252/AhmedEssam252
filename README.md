@@ -9,16 +9,6 @@
   <img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdnZWNnamhyeGQ0dmI3ZzVzcXZtOWFyZzRpY3d4dHR0bGdpbXRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif" style="background:rgba(0,0,0,0)" width="25%" height="200" alt="Text gif. A coffee cup with a smiling face made out of pixels steams. Flashing text reads, “Insert coffee to continue.”">
 </div>
 
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-essam-07333a202) 
-
 <div align="center" style="display:flex;justify-content: space-around;flex-wrap:wrap;">
 <img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ6cDNtNjJ4aGY2cnUyY3V0eWxmdWp4dG9qOHpvdGViY2V1YTQ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDQj6tO9V3Fas7fkkP/giphy.gif" style="background:rgba(0,0,0,0)" width="20%" height="250" alt="Gogolitus giphyupload pixelart retro car GIF">
 
