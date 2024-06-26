@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedEssam252&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedEssam252&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -64,7 +63,7 @@
 </div>
 
 ###
-<div style="display:flex;">
+<div align="center">
 <img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ6cDNtNjJ4aGY2cnUyY3V0eWxmdWp4dG9qOHpvdGViY2V1YTQ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDQj6tO9V3Fas7fkkP/giphy.gif" style="background:rgba(0,0,0,0)" width="300" alt="Gogolitus giphyupload pixelart retro car GIF">
 
 <img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpkN2kxZW85bzJ1YXdqM3lwdjNiczBnMjg5OXltajhraDF1MzJ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KCSCZJ2HH0TX3Zsidl/giphy.gif" style="background:rgba(0,0,0,0)" width="500"  alt="Teenage Mutant Ninja Turtles Game GIF by Xbox">
