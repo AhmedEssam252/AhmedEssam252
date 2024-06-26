@@ -65,6 +65,6 @@
 
 ###
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/qDQj6tO9V3Fas7fkkP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/road-outrun-gogolitus-qDQj6tO9V3Fas7fkkP">via GIPHY</a></p>
+<img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ6cDNtNjJ4aGY2cnUyY3V0eWxmdWp4dG9qOHpvdGViY2V1YTQ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDQj6tO9V3Fas7fkkP/giphy.gif" style="background:rgba(0,0,0,0)" width="100%" height="100%" alt="Gogolitus giphyupload pixelart retro car GIF">
 
 ###
