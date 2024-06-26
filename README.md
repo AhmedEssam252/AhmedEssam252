@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Essam</h1>
 <h3 align="center">A passionate full-stack web developer from Egypt</h3>
 
+# 💫 About Me:
+How can use open-source projects in non profit organizations
+
 <div align="center" style="width:100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedEssam252&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
