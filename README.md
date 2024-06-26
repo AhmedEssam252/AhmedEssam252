@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack web developer from Egypt</h3>
 
 # 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api?username=AhmedEssam252&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedEssam252&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEssam252&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
