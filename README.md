@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed Essam and I'm a Full-Stack Web Developer, from Egypt</h2>
+<p align="center"><a href="https://www.linkedin.com/in/ahmed-essam-07333a202"><img width="80%" alt="Hello, I'm Ahmed !" src="./assets/gh-readme-header.png" /></a></p>
 
 ###
 
