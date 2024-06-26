@@ -65,6 +65,6 @@
 
 ###
 
-<iframe src="https://giphy.com/embed/qDQj6tO9V3Fas7fkkP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/road-outrun-gogolitus-qDQj6tO9V3Fas7fkkP">via GIPHY</a></p>
+<img src="https://giphy.com/embed/qDQj6tO9V3Fas7fkkP" height="200" alt="pixel logo"  />
 
 ###
